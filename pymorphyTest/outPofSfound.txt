@@ -1,0 +1,301 @@
+NOUN,inan,femn sing,nomn
+NOUN,inan,femn sing,gent
+NOUN,anim,femn,Sgtm,Surn sing,gent
+NOUN,inan,femn sing,gent
+NOUN,anim,femn,Patr sing,gent
+
+ADJF masc,sing,nomn
+NOUN,inan,masc sing,nomn
+ADJF,Qual femn,sing,nomn
+ADJF femn,sing,nomn
+NOUN,inan,femn sing,nomn
+ADJF femn,sing,gent
+NOUN,inan,femn sing,gent
+
+ADJF masc,sing,nomn
+ADJF masc,sing,nomn
+NOUN,inan,masc sing,nomn
+
+ADJF femn,sing,nomn
+NOUN,inan,femn sing,nomn
+
+NOUN,inan,femn sing,gent
+PREP
+NOUN,inan,neut sing,loct
+PREP
+NOUN,inan,masc sing,nomn
+PREP
+ADJF,Qual plur,datv
+NOUN,inan,neut sing,ablt
+NOUN,inan,femn sing,gent
+ADJF,Qual femn,sing,accs
+NOUN,inan,femn sing,accs
+PREP
+UNKN
+ADJF,Qual femn,sing,accs
+NOUN,inan,femn sing,accs
+NOUN,inan,femn sing,nomn
+PREP
+ADJF,Qual femn,sing,gent
+NOUN,anim,femn sing,datv
+ADJF masc,sing,nomn
+NOUN,inan,femn sing,gent
+PREP
+NOUN,inan,neut sing,loct
+ADJF femn,sing,accs
+NOUN,inan,femn sing,accs
+ADJF femn,sing,accs
+NOUN,inan,femn sing,accs
+
+PREP
+NOUN,inan,masc sing,accs
+NOUN,inan,femn sing,gent
+PREP
+NOUN,inan,neut sing,accs
+NOUN,inan,neut sing,gent
+NOUN,inan,neut sing,accs
+ADVB,Prdx
+VERB,perf,intr neut,sing,past,indc
+NOUN,inan,masc sing,nomn
+VERB,impf,tran sing,3per,pres,indc
+INFN,impf,tran
+VERB,impf,tran sing,3per,pres,indc
+NOUN,inan,neut,Sgtm sing,nomn
+ADJF,Qual masc,sing,gent
+NOUN,inan,neut sing,gent
+ADJF,Qual femn,sing,gent
+NOUN,inan,femn sing,gent
+ADJF femn,sing,nomn
+NOUN,inan,femn sing,accs
+VERB,perf,intr femn,sing,past,indc
+NOUN,inan,femn sing,nomn
+PREP
+NOUN,inan,femn sing,loct
+
+VERB,impf,tran sing,3per,pres,indc
+NPRO,Anph sing,accs
+ADJF,Subx,Qual femn,sing,datv
+PREP
+NOUN,inan,neut sing,accs
+ADJF plur,gent
+UNKN
+NOUN,inan,masc plur,gent
+CONJ
+PREP
+NOUN,inan,masc sing,gent
+PREP
+NOUN,inan,femn sing,accs
+VERB,perf,intr femn,sing,past,indc
+PREP
+NOUN,inan,femn sing,accs
+NOUN,anim,femn sing,ablt
+
+NOUN,inan,femn sing,nomn
+VERB,impf,intr femn,sing,past,indc
+PRTS,perf,past,pssv femn,sing
+PREP
+ADJF,Qual plur,ablt
+ADJF plur,ablt
+NOUN,inan,masc plur,ablt
+
+PREP
+ADJF masc,sing,nomn
+NOUN,inan,masc sing,accs
+ADVB
+VERB,impf,tran femn,sing,past,indc
+NOUN,inan,neut sing,nomn
+UNKN
+NOUN,inan,masc sing,gent
+PREP
+NOUN,inan,masc sing,accs
+VERB,impf,tran femn,sing,past,indc
+ADJF,Qual masc,sing,nomn
+
+PREP
+NUMR inan,accs
+NOUN,inan,masc sing,gent
+NOUN,inan,femn sing,gent
+VERB,perf,intr femn,sing,past,indc
+CONJ
+CONJ
+PRCL
+ADVB
+VERB,impf,tran femn,sing,past,indc
+INFN,impf,intr
+PREP
+UNKN
+NOUN,inan,masc sing,gent
+PREP
+NOUN,inan,masc sing,accs
+
+NOUN,inan,masc plur,nomn
+NOUN,inan,neut sing,gent
+NOUN,inan,femn sing,datv
+VERB,impf,intr plur,past,indc
+PREP
+ADJF masc,sing,datv
+NOUN,inan,neut sing,nomn
+NOUN,inan,femn sing,gent
+PREP
+NUMB,intg
+PNCT
+NOUN,inan,masc sing,nomn
+NOUN,inan,neut sing,nomn
+NOUN,inan,masc sing,gent
+PREP Vpre
+ADJF,Qual masc,sing,ablt
+NOUN,inan,neut sing,ablt
+ADJF,Qual femn,sing,gent
+PRTF,impf,tran,pres,pssv femn,sing,gent
+NOUN,inan,femn sing,gent
+ADJF femn,sing,nomn
+NOUN,inan,femn sing,accs
+ADVB
+VERB,impf,intr femn,sing,past,indc
+NOUN,inan,femn sing,nomn
+PREP
+NOUN,inan,masc sing,loct
+
+PREP
+NOUN,inan,neut sing,loct
+NUMB,intg
+NOUN,inan,masc plur,gent
+ADJF masc,sing,nomn
+NOUN,anim,masc sing,nomn
+VERB,impf,tran masc,sing,past,indc
+NOUN,inan,masc plur,nomn
+VERB,impf,tran sing,impr,excl
+CONJ
+UNKN
+CONJ
+ADJF,Subx,Qual femn,sing,nomn
+ADVB
+VERB,impf,tran femn,sing,past,indc
+NOUN,inan,masc plur,nomn
+NOUN,inan,femn sing,datv
+NOUN,inan,masc sing,nomn
+CONJ
+VERB,impf,tran neut,sing,past,indc
+PREP
+ADJF,Qual neut,sing,datv
+NOUN,inan,neut sing,datv
+
+NOUN,inan,femn sing,nomn
+VERB,impf,intr femn,sing,past,indc
+PREP
+UNKN
+NOUN,inan,masc plur,gent
+
+NOUN,inan,neut sing,nomn
+NOUN,inan,femn sing,gent
+ADVB
+VERB,impf,intr neut,sing,past,indc
+PREP
+NPRO,neut sing,datv
+NOUN,inan,neut sing,gent
+NOUN,inan,masc sing,nomn
+VERB,impf,intr masc,sing,past,indc
+
+NOUN,inan,neut sing,nomn
+VERB,impf,intr neut,sing,past,indc
+PREP
+UNKN
+NOUN,inan,femn sing,loct
+
+NUMR inan,accs
+NOUN,inan,masc sing,gent
+ADVB
+PREP
+NOUN,inan,femn sing,loct
+ADJF masc,sing,gent
+NOUN,anim,masc sing,gent
+VERB,impf,intr masc,sing,past,indc
+PRTS,perf,past,pssv masc,sing
+NOUN,inan,masc sing,nomn
+ADJF masc,sing,gent
+NOUN,inan,masc sing,gent
+
+PREP
+ADJF inan,plur,accs
+UNKN
+NOUN,inan,masc sing,gent
+NOUN,inan,femn sing,nomn
+NOUN,inan,neut plur,gent
+VERB,perf,intr femn,sing,past,indc
+PREP
+UNKN
+NOUN,inan,masc sing,accs
+PREP
+NOUN,inan,masc sing,accs
+
+ADJF neut,sing,nomn
+NOUN,inan,neut sing,nomn
+NOUN,inan,neut sing,gent
+VERB,perf,intr neut,sing,past,indc
+PREP
+NOUN,inan,neut sing,accs
+NUMB,intg
+NOUN,inan,femn sing,gent
+ADVB
+CONJ
+PREP Vpre
+NOUN,inan,neut sing,accs
+ADJF masc,sing,gent
+NOUN,inan,neut sing,gent
+ADJF masc,sing,gent
+NOUN,inan,masc sing,gent
+VERB,perf,intr neut,sing,past,indc
+ADVB,Prdx
+INFN,impf,intr
+NOUN,inan,neut sing,accs
+NPRO,neut sing,datv
+VERB,impf,intr masc,sing,past,indc
+NOUN,inan,masc sing,accs
+PREP
+NOUN,inan,femn sing,accs
+PREP
+UNKN
+NOUN,inan,masc sing,accs
+NOUN,inan,neut sing,gent
+ADJF masc,sing,gent
+NOUN,inan,masc sing,gent
+ADJF,Qual neut,sing,nomn
+NOUN,inan,neut sing,nomn
+NOUN,inan,femn sing,gent
+PREP
+NUMB,intg
+NOUN,inan,masc sing,gent
+PREP
+NOUN,inan,masc sing,nomn
+ADJF,Qual masc,sing,nomn
+NOUN,inan,masc sing,nomn
+CONJ
+NOUN,inan,femn sing,nomn
+NOUN,inan,neut sing,nomn
+NOUN,inan,masc sing,gent
+NOUN,inan,neut sing,nomn
+NOUN,inan,femn sing,gent
+
+PREP
+NOUN,inan,GNdr,Pltm plur,accs
+PREP
+NOUN,inan,neut sing,gent
+NOUN,inan,masc sing,gent
+NOUN,inan,femn sing,gent
+VERB,perf,tran femn,sing,past,indc
+ADJF masc,sing,gent
+NOUN,anim,masc sing,gent
+ADJF,Apro,Subx,Anph masc,sing,nomn
+CONJ
+VERB,perf,tran masc,sing,past,indc
+ADJF,Qual femn,sing,accs
+NOUN,inan,femn sing,accs
+
+PREP
+NOUN,inan,masc sing,accs
+NOUN,inan,femn sing,gent
+NOUN,inan,femn sing,nomn
+VERB,perf,intr femn,sing,past,indc
+PREP
+UNKN
+
